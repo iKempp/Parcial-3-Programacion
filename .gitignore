@@ -1,0 +1,19 @@
+# Archivos compilados
+bin/
+*.class
+
+# IDEs y editores
+.vscode/
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# Archivos temporales y del sistema
+fuentes.txt
+*.log
+.DS_Store
+Thumbs.db
+
+# Documentos locales no requeridos en el repo
+INFORME_PARCIAL_3.md
